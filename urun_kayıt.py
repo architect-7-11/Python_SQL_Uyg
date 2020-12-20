@@ -51,8 +51,6 @@ class Urun_Kayit:
 
         miktar = list(miktar)
         miktar[0] +=adet
-
-        print(miktar)
         self.cursor.execute("update urunler set adet = %s where ürün_ismi = %s",(miktar[0],urun_ismi))
         self.connection.commit()
 

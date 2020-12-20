@@ -5,7 +5,7 @@ Urun_Kayit = Urun_Kayit()
 print("""
 **************************************
 
-Kütüphane Programına Hoşgeldiniz
+Ürün Kayıt Programına Hoşgeldiniz
 İşlemler:
 
 1. Ürünleri Göster

@@ -1,2 +1,1 @@
-# Python_SQL_UrunKayit
-veritanı urun kayıt etme ve düzenleme programı
+# Python_SQL_projeleri
